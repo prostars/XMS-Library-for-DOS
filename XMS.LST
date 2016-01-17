@@ -1,0 +1,13 @@
+Publics by module
+
+XMS_A   	size = 672
+	_EMBAlloc                         _EMB_HandleInfo
+	_EMB_Lock                         _EMB_UNLock
+	_EMB_reSize                       _FreeEMB
+	_GetEMBSize                       _GetXMMVersion
+	_MoveEMB                          _XMMinstalled
+
+XMS_C   	size = 411
+	EMBRead                           EMBWrite
+	EMBtoEMB                          EMBtoMEM
+	MEMtoEMB                        
